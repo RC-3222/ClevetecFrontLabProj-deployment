@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56b8f66b.css",
+    "main.js": "/static/js/main.b23bdde5.js",
+    "static/media/Montserrat-Italic-VariableFont_wght.ttf": "/static/media/Montserrat-Italic-VariableFont_wght.ef11b720b9a6cfb9a317.ttf",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3faa3eef13649db02044.ttf",
+    "static/media/close-alt.svg": "/static/media/close-alt.fac6cf4b44c04943f331ad73d4f5b2c9.svg",
+    "static/media/loader.svg": "/static/media/loader.220076aa9e1a21b366bfc5be225d92bf.svg",
+    "static/media/instagram.svg": "/static/media/instagram.9b78bb1977afb226c996218196a5e210.svg",
+    "static/media/window.svg": "/static/media/window.730afc3735baeb19629a6411cbad8ad4.svg",
+    "static/media/star-active.svg": "/static/media/star-active.1585399aea149374ba2b7fb1fb44957b.svg",
+    "static/media/star.svg": "/static/media/star.175c12c1e70157da6df4f74832da388b.svg",
+    "static/media/sort.svg": "/static/media/sort.f1731813f1a5139821133f60a37c01f8.svg",
+    "static/media/vk.svg": "/static/media/vk.c50f008be6f8d85c5dfee30f2bafb12a.svg",
+    "static/media/cat.svg": "/static/media/cat.dbfcc76a407d42e6b24f.svg",
+    "static/media/search.svg": "/static/media/search.258ea9df71d5648696dc3c34c35bfb79.svg",
+    "static/media/burger.svg": "/static/media/burger.b06486e7f3dacdaafb4173c306103df7.svg",
+    "static/media/eye-closed.svg": "/static/media/eye-closed.0b9e737bad77689d595478fb8e7fe238.svg",
+    "static/media/close.svg": "/static/media/close.905ca620d6067041364227293ece615a.svg",
+    "static/media/warning-circle.svg": "/static/media/warning-circle.d46099f3a7375d26349d143afb27b38d.svg",
+    "index.html": "/index.html",
+    "static/media/photo-icon.svg": "/static/media/photo-icon.0070ffebd2a3743a71dc.svg",
+    "static/media/eye.svg": "/static/media/eye.f3c26888d20e162912495bce4e2cb681.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.61b65379c7b13b56bf4074fb7aa27445.svg",
+    "static/media/chevron.svg": "/static/media/chevron.9b6cf87d7097d0b09c898416f0cbc4dd.svg",
+    "static/media/arrow-down.svg": "/static/media/arrow-down.ab50dce869b7bf566d6736410ae94f22.svg",
+    "static/media/arrow-up.svg": "/static/media/arrow-up.e5298fe6438bcb51f81eea10da63163c.svg",
+    "static/media/arrow.svg": "/static/media/arrow.c1db5141c7ccddde8031ece235ffd7c0.svg",
+    "static/media/positive-circle.svg": "/static/media/positive-circle.c0d9fceaa1b5381be604442b8c806f50.svg",
+    "static/media/facebook.svg": "/static/media/facebook.ad7567aab41157c3b30c3507c749e4b5.svg",
+    "static/media/check.svg": "/static/media/check.5be3c72204420416884501a54dcddb2a.svg",
+    "static/media/arrow-dropdown.svg": "/static/media/arrow-dropdown.e24c11e2f678ebb6956a64311f8115f3.svg",
+    "main.56b8f66b.css.map": "/static/css/main.56b8f66b.css.map",
+    "main.b23bdde5.js.map": "/static/js/main.b23bdde5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56b8f66b.css",
+    "static/js/main.b23bdde5.js"
+  ]
+}
